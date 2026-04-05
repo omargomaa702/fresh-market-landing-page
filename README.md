@@ -24,7 +24,8 @@ It displays products like vegetables, fruits, and meat with a simple add-to-cart
 
 ## 🌐 Live Demo
 
-https://your-username.github.io/fresh-market-landing-page/
+https://omargomaa702.github.io/fresh-market-landing-page/
+
 
 ---
 
